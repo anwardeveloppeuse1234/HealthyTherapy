@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Healthy Therapy for MS
 
 Application mobile Flutter complète pour le suivi de santé des patients atteints de sclérose en plaques.
@@ -245,3 +246,7 @@ Développé avec ❤️ pour améliorer la qualité de vie des patients atteints
 **Version** : 1.0.0  
 **Date** : Décembre 2025  
 **Framework** : Flutter 3.x
+=======
+# HealthyTherapy
+Développer une application mobile destinée aux personnes atteintes de sclérose en plaques (MS), permettant de gérer leurs symptômes, suivre leurs progrès, effectuer des exercices personnalisés et communiquer directement avec leurs professionnels de santé.
+>>>>>>> 2b918e500c4bad01a7a81d5edf7b5970fbaceeed
